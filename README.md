@@ -5,7 +5,7 @@ This repository hosts the assets for the DonkeSwap tokens list, which includes b
 
 ## How to Contribute
 
-1. Begin by forking the repository (<https://github.com/donkelabs/assets/fork>).
+1. Begin by forking the repository (<https://github.com/donkelabs/assets_info/fork>).
 2. Proceed to create your feature branch by executing `git checkout -b new-token/[token_symbol]`.
 3. Incorporate your token into the `sei-evm-tokens-mainnet.json` file.
 4. Add your token logo to the `logos` directory. It should follow the convention `[token_address]/logo.png`. It's crucial to ensure that the `[token_address]` folder name is an exact match (including case) with the `address` value in the `sei-evm-tokens-mainnet.json` file.
